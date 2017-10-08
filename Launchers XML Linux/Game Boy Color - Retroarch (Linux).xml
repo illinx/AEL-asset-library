@@ -7,9 +7,9 @@
   <platform>Nintendo GameBoy Color</platform>
   <application>/usr/bin/retroarch</application>
   <args>-L /home/kodi/bin/libretro/gambatte_libretro.so -f -v &quot;$rom$&quot;</args>
-  <ROM_path>/media/storage/Roms/nintendo-gbcolor/</ROM_path>
+  <ROM_path>/media/storage/Roms/GBC/</ROM_path>
   <ROM_ext>zip</ROM_ext>
-  <ROM_asset_path>/media/storage/Assets/nintendo-gbcolor/</ROM_asset_path>
+  <ROM_asset_path>/media/storage/Assets/GBC/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Nintendo/Game Boy Color</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>

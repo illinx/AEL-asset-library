@@ -7,9 +7,9 @@
   <platform>Colecovision</platform>
   <application>/usr/bin/retroarch</application>
   <args>-L /home/kodi/bin/libretro/bluemsx_libretro.so -f -v &quot;$rom$&quot;</args>
-  <ROM_path>/media/storage/Roms/con-coleco/</ROM_path>
+  <ROM_path>/media/storage/Roms/COLECO/</ROM_path>
   <ROM_ext>zip</ROM_ext>
-  <ROM_asset_path>/media/storage/Assets/con-coleco/</ROM_asset_path>
+  <ROM_asset_path>/media/storage/Assets/COLECO/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Consoles/Colecovision</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>

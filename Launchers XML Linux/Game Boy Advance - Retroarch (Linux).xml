@@ -9,9 +9,9 @@
   <args>-L /home/kodi/bin/libretro/vbam_libretro.so -f -v &quot;$rom$&quot;</args>
   <args_extra>-L /home/kodi/bin/libretro/vba_next_libretro.so -f -v &quot;$rom$&quot;</args_extra>
   <args_extra>-L /home/kodi/bin/libretro/meteor_libretro.so -f -v &quot;$rom$&quot;</args_extra>
-  <ROM_path>/media/storage/Roms/nintendo-gba/</ROM_path>
+  <ROM_path>/media/storage/Roms/GBA/</ROM_path>
   <ROM_ext>zip</ROM_ext>
-  <ROM_asset_path>/media/storage/Assets/nintendo-gba/</ROM_asset_path>
+  <ROM_asset_path>/media/storage/Assets/GBA/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Nintendo/Game Boy Advance</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>
