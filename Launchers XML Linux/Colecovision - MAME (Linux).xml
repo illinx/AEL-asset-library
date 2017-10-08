@@ -8,9 +8,9 @@
   <application>/usr/games/mame</application>
   <args>coleco -cart &quot;$rom$&quot;</args>
   <args_extra>colecop -cart &quot;$rom$&quot;</args_extra>
-  <ROM_path>/home/kodi/AEL-ROMs/con-coleco/</ROM_path>
+  <ROM_path>/media/storage/Roms/con-coleco/</ROM_path>
   <ROM_ext>zip</ROM_ext>
-  <ROM_asset_path>/home/kodi/AEL-assets/con-coleco/</ROM_asset_path>
+  <ROM_asset_path>/media/storage/Assets/con-coleco/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Consoles/Colecovision</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>

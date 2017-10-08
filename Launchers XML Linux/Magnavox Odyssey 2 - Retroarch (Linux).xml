@@ -5,11 +5,11 @@
   <category>Consoles</category>
   <Launcher_NFO>../Launcher assets Consoles/Magnavox Odyssey 2.nfo</Launcher_NFO>
   <platform>Magnavox Odyssey2</platform>
-  <application>/home/kodi/bin/retroarch</application>
+  <application>/usr/bin/retroarch</application>
   <args>-L /home/kodi/bin/libretro/o2em_libretro.so -f -v &quot;$rom$&quot;</args>
-  <ROM_path>/home/kodi/AEL-ROMs/con-odyssey2/</ROM_path>
+  <ROM_path>/media/storage/Roms/con-odyssey2/</ROM_path>
   <ROM_ext>zip</ROM_ext>
-  <ROM_asset_path>/home/kodi/AEL-assets/con-odyssey2/</ROM_asset_path>
+  <ROM_asset_path>/media/storage/Assets/con-odyssey2/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Consoles/Magnavox Odyssey 2</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>

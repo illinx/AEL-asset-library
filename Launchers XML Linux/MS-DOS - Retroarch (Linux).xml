@@ -26,11 +26,11 @@ exit
   <category>Microsoft</category>
   <Launcher_NFO>../Launcher assets Microsoft/MS-DOS.nfo</Launcher_NFO>
   <platform>Microsoft MS-DOS</platform>
-  <application>/home/kodi/bin/retroarch</application>
+  <application>/usr/bin/retroarch</application>
   <args>-L /home/kodi/bin/libretro/dosbox_libretro.so -f -v &quot;$rom$&quot;</args>
-  <ROM_path>/home/kodi/AEL-ROMs/msdos/</ROM_path>
+  <ROM_path>/media/storage/Roms/msdos/</ROM_path>
   <ROM_ext>conf</ROM_ext>
-  <ROM_asset_path>/home/kodi/AEL-assets/msdos/</ROM_asset_path>
+  <ROM_asset_path>/media/storage/Assets/msdos/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Microsoft/MS-DOS</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>

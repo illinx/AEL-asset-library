@@ -5,11 +5,11 @@
   <category>NEC</category>
   <Launcher_NFO>../Launcher assets NEC/PC Engine.nfo</Launcher_NFO>
   <platform>NEC PC Engine</platform>
-  <application>/home/kodi/bin/retroarch</application>
+  <application>/usr/bin/retroarch</application>
   <args>-L /home/kodi/bin/libretro/mednafen_pce_fast_libretro.so -f -v &quot;$rom$&quot;</args>
-  <ROM_path>/home/kodi/AEL-ROMs/nec-pce/</ROM_path>
+  <ROM_path>/media/storage/Roms/nec-pce/</ROM_path>
   <ROM_ext>zip</ROM_ext>
-  <ROM_asset_path>/home/kodi/AEL-assets/nec-pce/</ROM_asset_path>
+  <ROM_asset_path>/media/storage/Assets/nec-pce/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets NEC/PC Engine</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>

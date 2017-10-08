@@ -5,11 +5,11 @@
   <category>SEGA</category>
   <Launcher_NFO>../Launcher assets SEGA/Dreamcast.nfo</Launcher_NFO>
   <platform>Sega Dreamcast</platform>
-  <application>/home/kodi/bin/retroarch</application>
+  <application>/usr/bin/retroarch</application>
   <args>-L /home/kodi/bin/libretro/reicast_libretro.so -f -v &quot;$rom$&quot;</args>
-  <ROM_path>/home/kodi/AEL-ROMs/sega-dreamcast/</ROM_path>
+  <ROM_path>/media/storage/Roms/sega-dreamcast/</ROM_path>
   <ROM_ext>cdi|gdi|chd|cue</ROM_ext>
-  <ROM_asset_path>/home/kodi/AEL-assets/sega-dreamcast</ROM_asset_path>
+  <ROM_asset_path>/media/storage/Assets/sega-dreamcast</ROM_asset_path>
   <Asset_Prefix>../Launcher assets SEGA/Dreamcast</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>
