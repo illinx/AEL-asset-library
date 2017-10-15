@@ -6,7 +6,7 @@
   <Launcher_NFO>../Launcher assets NEC/PC-FX.nfo</Launcher_NFO>
   <platform>NEC PC Engine</platform>
   <application>/usr/bin/retroarch</application>
-  <args>-L /home/kodi/bin/libretro/mednafen_pcfx_libretro.so -f -v &quot;$rom$&quot;</args>
+  <args>-L /usr/lib/x86_64-linux-gnu/libretro/mednafen_pcfx_libretro.so -f -v &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/nec-pcfx/</ROM_path>
   <ROM_ext>cue|iso</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/nec-pcfx/</ROM_asset_path>

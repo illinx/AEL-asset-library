@@ -6,8 +6,8 @@
   <Launcher_NFO>../Launcher assets Atari/Atari Lynx.nfo</Launcher_NFO>
   <platform>Atari Lynx</platform>
   <application>/usr/bin/retroarch</application>
-  <args>-L /home/kodi/bin/libretro/mednafen_lynx_libretro.so -f -v &quot;$rom$&quot;</args>
-  <args_extra>-L /home/kodi/bin/libretro/handy_libretro.so -f -v &quot;$rom$&quot;</args_extra>
+  <args>-L /usr/lib/x86_64-linux-gnu/libretro/mednafen_lynx_libretro.so -f -v &quot;$rom$&quot;</args>
+  <args_extra>-L /usr/lib/x86_64-linux-gnu/libretro/handy_libretro.so -f -v &quot;$rom$&quot;</args_extra>
   <ROM_path>/media/storage/Roms/atari-lynx/</ROM_path>
   <ROM_ext>zip</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/atari-lynx/</ROM_asset_path>

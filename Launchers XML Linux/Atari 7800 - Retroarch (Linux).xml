@@ -6,7 +6,7 @@
   <Launcher_NFO>../Launcher assets Atari/Atari 7800.nfo</Launcher_NFO>
   <platform>Atari 7800</platform>
   <application>/usr/bin/retroarch</application>
-  <args>-L /home/kodi/bin/libretro/prosystem_libretro.so -f -v &quot;$rom$&quot;</args>
+  <args>-L /usr/lib/x86_64-linux-gnu/libretro/prosystem_libretro.so -f -v &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/A7800/</ROM_path>
   <ROM_ext>zip</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/A7800/</ROM_asset_path>

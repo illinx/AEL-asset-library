@@ -6,7 +6,7 @@
   <Launcher_NFO>../Launcher assets Nintendo/Game Boy.nfo</Launcher_NFO>
   <platform>Nintendo GameBoy</platform>
   <application>/usr/bin/retroarch</application>
-  <args>-L /home/kodi/bin/libretro/gambatte_libretro.so -f -v &quot;$rom$&quot;</args>
+  <args>-L /usr/lib/x86_64-linux-gnu/libretro/gambatte_libretro.so -f -v &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/GB/</ROM_path>
   <ROM_ext>zip</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/GB/</ROM_asset_path>

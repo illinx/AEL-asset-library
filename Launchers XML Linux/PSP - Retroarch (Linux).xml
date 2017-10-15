@@ -6,7 +6,7 @@
   <Launcher_NFO>../Launcher assets SONY/PSP.nfo</Launcher_NFO>
   <platform>Sony PlayStation Portable</platform>
   <application>/usr/bin/retroarch</application>
-  <args>-L /home/kodi/bin/libretro/ppsspp_libretro.so -f -v &quot;$rom$&quot;</args>
+  <args>-L /usr/lib/x86_64-linux-gnu/libretro/ppsspp_libretro.so -f -v &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/sony-psp/</ROM_path>
   <ROM_ext>cue|iso</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/sony-psp/</ROM_asset_path>

@@ -6,7 +6,7 @@
   <Launcher_NFO>../Launcher assets Computers/Amstrad CPC.nfo</Launcher_NFO>
   <platform>Amstrad CPC</platform>
   <application>/usr/bin/retroarch</application>
-  <args>-L /home/kodi/bin/libretro/cap32_libretro.so -f -v &quot;$rom$&quot;</args>
+  <args>-L /usr/lib/x86_64-linux-gnu/libretro/cap32_libretro.so -f -v &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/com-amstrad-cpc/</ROM_path>
   <ROM_ext>zip</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/com-amstrad-cpc/</ROM_asset_path>

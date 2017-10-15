@@ -6,7 +6,7 @@
   <Launcher_NFO>../Launcher assets Atari/Atari 2600.nfo</Launcher_NFO>
   <platform>Atari 2600</platform>
   <application>/usr/bin/retroarch</application>
-  <args>-L /home/kodi/bin/libretro/stella_libretro.so -v -f &quot;$rom$&quot;</args>
+  <args>-L /usr/lib/x86_64-linux-gnu/libretro/stella_libretro.so -v -f &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/A2600/</ROM_path>
   <ROM_ext>zip</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/A2600/</ROM_asset_path>

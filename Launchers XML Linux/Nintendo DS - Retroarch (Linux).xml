@@ -6,7 +6,7 @@
   <Launcher_NFO>../Launcher assets Nintendo/Nintendo DS.nfo</Launcher_NFO>
   <platform>Nintendo DS</platform>
   <application>/usr/bin/retroarch</application>
-  <args>-L /home/kodi/bin/libretro/desmume_libretro.so -f -v &quot;$rom$&quot;</args>
+  <args>-L /usr/lib/x86_64-linux-gnu/libretro/desmume_libretro.so -f -v &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/nintendo-ds/</ROM_path>
   <ROM_ext>nds</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/nintendo-ds/</ROM_asset_path>

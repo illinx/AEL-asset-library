@@ -27,7 +27,7 @@ exit
   <Launcher_NFO>../Launcher assets Microsoft/MS-DOS.nfo</Launcher_NFO>
   <platform>Microsoft MS-DOS</platform>
   <application>/usr/bin/retroarch</application>
-  <args>-L /home/kodi/bin/libretro/dosbox_libretro.so -f -v &quot;$rom$&quot;</args>
+  <args>-L /usr/lib/x86_64-linux-gnu/libretro/dosbox_libretro.so -f -v &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/msdos/</ROM_path>
   <ROM_ext>conf</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/msdos/</ROM_asset_path>

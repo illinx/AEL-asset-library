@@ -6,7 +6,7 @@
   <Launcher_NFO>../Launcher assets SEGA/Saturn.nfo</Launcher_NFO>
   <platform>Sega Saturn</platform>
   <application>/usr/bin/retroarch</application>
-  <args>-L /home/kodi/bin/libretro/mednafen_saturn_libretro.so -f -v &quot;$rom$&quot;</args>
+  <args>-L /usr/lib/x86_64-linux-gnu/libretro/mednafen_saturn_libretro.so -f -v &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/sega-saturn/</ROM_path>
   <ROM_ext>cue</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/sega-saturn/</ROM_asset_path>
