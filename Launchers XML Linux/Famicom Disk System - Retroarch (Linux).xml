@@ -8,9 +8,9 @@
   <application>/usr/bin/retroarch</application>
   <args>-L /usr/lib/x86_64-linux-gnu/libretro/nestopia_libretro.so -f -v &quot;$rom$&quot;</args>
   <args_extra>-L /usr/lib/x86_64-linux-gnu/libretro/fceumm_libretro.so -f -v &quot;$rom$&quot;</args_extra>
-  <ROM_path>/media/storage/Roms/nintendo-fds/</ROM_path>
-  <ROM_ext>zip</ROM_ext>
-  <ROM_asset_path>/media/storage/Assets/nintendo-fds/</ROM_asset_path>
+  <ROM_path>/media/storage/Roms/NES/</ROM_path>
+  <ROM_ext>zip|fds</ROM_ext>
+  <ROM_asset_path>/media/storage/Assets/FDS/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Nintendo/Famicom Disk System</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>

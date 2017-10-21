@@ -2,7 +2,7 @@
 <advanced_emulator_launcher_configuration>
 <launcher>
   <name>Neo Geo MVS (MAME)</name>
-  <category>Arcade (MAME)</category>
+  <category>Arcade</category>
   <Launcher_NFO>../Launcher assets Arcade/Neo Geo MVS.nfo</Launcher_NFO>
   <platform>SNK Neo-Geo MVS</platform>
   <application>/usr/games/mame</application>

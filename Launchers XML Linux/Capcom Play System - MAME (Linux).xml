@@ -2,14 +2,14 @@
 <advanced_emulator_launcher_configuration>
 <launcher>
   <name>Capcom Play System (MAME)</name>
-  <category>Arcade (MAME)</category>
+  <category>Arcade</category>
   <Launcher_NFO>../Launcher assets Arcade/Capcom Play System.nfo</Launcher_NFO>
   <platform>MAME</platform>
   <application>/usr/games/mame</application>
   <args>&quot;$rom$&quot;</args>
-  <ROM_path>/media/storage/Roms/mame-cps/</ROM_path>
+  <ROM_path>/media/storage/Roms/MAME/</ROM_path>
   <ROM_ext>zip|7z</ROM_ext>
-  <ROM_asset_path>/media/storage/Assets/mame-cps/</ROM_asset_path>
+  <ROM_asset_path>/media/storage/Assets/MAME/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Arcade/Capcom Play System</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>

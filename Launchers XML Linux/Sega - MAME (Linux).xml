@@ -2,15 +2,15 @@
 <advanced_emulator_launcher_configuration>
 <launcher>
   <name>Sega (MAME)</name>
-  <category>Arcade (MAME)</category>
+  <category>Arcade</category>
   <Launcher_NFO>../Launcher assets Arcade/SEGA.nfo</Launcher_NFO>
   <plot>Sega games supported by MAME.</plot>
   <platform>MAME</platform>
   <application>/usr/games/mame</application>
   <args>&quot;$rom$&quot;</args>
-  <ROM_path>/media/storage/Roms/mame-sega/</ROM_path>
+  <ROM_path>/media/storage/Roms/MAME/</ROM_path>
   <ROM_ext>zip|7z</ROM_ext>
-  <ROM_asset_path>/media/storage/Assets/mame-sega/</ROM_asset_path>
+  <ROM_asset_path>/media/storage/Assets/MAME/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Arcade/SEGA</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>

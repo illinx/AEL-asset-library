@@ -9,7 +9,7 @@
   <args>-L /usr/lib/x86_64-linux-gnu/libretro/mupen64plus_libretro.so -f -v &quot;$rom$&quot;</args>
   <args_extra>-L /usr/lib/x86_64-linux-gnu/libretro/parallel_n64_libretro.so -f -v &quot;$rom$&quot;</args_extra>
   <ROM_path>/media/storage/Roms/N64/</ROM_path>
-  <ROM_ext>zip|z64</ROM_ext>
+  <ROM_ext>zip|z64|n64</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/N64/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Nintendo/Nintendo 64</Asset_Prefix>
 </launcher>
