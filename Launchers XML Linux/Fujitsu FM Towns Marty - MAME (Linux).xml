@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--
+    FM Towns Marty MAME machines
+
+    carmarty  floppydisk1, floppydisk2, cdrom, memcard, harddisk1, harddisk2
+    fmtmarty  floppydisk1, floppydisk2, cdrom, memcard, harddisk1, harddisk2
+    fmtmarty2 floppydisk1, floppydisk2, cdrom, memcard, harddisk1, harddisk2
+-->
 <advanced_emulator_launcher_configuration>
 <launcher>
   <name>Fujitsu FM Towns Marty (Retroarch)</name>
@@ -6,9 +13,9 @@
   <Launcher_NFO>../Launcher assets Consoles/Fujitsu FM Towns Marty.nfo</Launcher_NFO>
   <platform>Fujitsu FM Towns Marty</platform>
   <application>/usr/games/mame</application>
-  <args>&quot;$rom$&quot;</args>
+  <args>fmtmarty -cdrom &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/con-fmtmarty/</ROM_path>
-  <ROM_ext>iso</ROM_ext>
+  <ROM_ext>chd|iso</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/con-fmtmarty/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Consoles/Fujitsu FM Towns Marty</Asset_Prefix>
 </launcher>
