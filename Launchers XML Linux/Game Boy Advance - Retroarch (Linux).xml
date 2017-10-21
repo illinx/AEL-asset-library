@@ -10,7 +10,7 @@
   <args_extra>-L /usr/lib/x86_64-linux-gnu/libretro/vba_next_libretro.so -f -v &quot;$rom$&quot;</args_extra>
   <args_extra>-L /usr/lib/x86_64-linux-gnu/libretro/meteor_libretro.so -f -v &quot;$rom$&quot;</args_extra>
   <ROM_path>/media/storage/Roms/GBA/</ROM_path>
-  <ROM_ext>zip</ROM_ext>
+  <ROM_ext>zip|gba</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/GBA/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Nintendo/Game Boy Advance</Asset_Prefix>
 </launcher>

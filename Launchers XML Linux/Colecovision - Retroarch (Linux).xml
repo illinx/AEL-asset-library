@@ -8,7 +8,7 @@
   <application>/usr/bin/retroarch</application>
   <args>-L /usr/lib/x86_64-linux-gnu/libretro/bluemsx_libretro.so -f -v &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/COLECO/</ROM_path>
-  <ROM_ext>zip</ROM_ext>
+  <ROM_ext>zip|col</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/COLECO/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Consoles/Colecovision</Asset_Prefix>
 </launcher>

@@ -7,9 +7,9 @@
   <platform>NEC PC Engine</platform>
   <application>/usr/bin/retroarch</application>
   <args>-L /usr/lib/x86_64-linux-gnu/libretro/mednafen_pce_fast_libretro.so -f -v &quot;$rom$&quot;</args>
-  <ROM_path>/media/storage/Roms/nec-pce/</ROM_path>
-  <ROM_ext>zip</ROM_ext>
-  <ROM_asset_path>/media/storage/Assets/nec-pce/</ROM_asset_path>
+  <ROM_path>/media/storage/Roms/PCE/</ROM_path>
+  <ROM_ext>zip|pce</ROM_ext>
+  <ROM_asset_path>/media/storage/Assets/PCE/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets NEC/PC Engine</Asset_Prefix>
 </launcher>
 </advanced_emulator_launcher_configuration>

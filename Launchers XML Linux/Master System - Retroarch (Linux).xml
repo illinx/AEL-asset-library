@@ -9,7 +9,7 @@
   <args>-L /usr/lib/x86_64-linux-gnu/libretro/genesis_plus_gx_libretro.so -f -v &quot;$rom$&quot;</args>
   <args_extra>-L /usr/lib/x86_64-linux-gnu/libretro/picodrive_libretro.so -f -v &quot;$rom$&quot;</args_extra>
   <ROM_path>/media/storage/Roms/SMS/</ROM_path>
-  <ROM_ext>zip</ROM_ext>
+  <ROM_ext>zip|sms</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/SMS/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets SEGA/Master System</Asset_Prefix>
 </launcher>

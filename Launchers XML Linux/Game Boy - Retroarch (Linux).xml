@@ -8,7 +8,7 @@
   <application>/usr/bin/retroarch</application>
   <args>-L /usr/lib/x86_64-linux-gnu/libretro/gambatte_libretro.so -f -v &quot;$rom$&quot;</args>
   <ROM_path>/media/storage/Roms/GB/</ROM_path>
-  <ROM_ext>zip</ROM_ext>
+  <ROM_ext>zip|gb</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/GB/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Nintendo/Game Boy</Asset_Prefix>
 </launcher>

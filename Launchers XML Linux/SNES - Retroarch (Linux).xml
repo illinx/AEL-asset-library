@@ -9,7 +9,7 @@
   <args>-L /usr/lib/x86_64-linux-gnu/libretro/bsnes_balanced_libretro.so -f -v &quot;$rom$&quot;</args>
   <args_extra>-L /usr/lib/x86_64-linux-gnu/libretro/mednafen_snes_libretro.so -f -v &quot;$rom$&quot;</args_extra>
   <ROM_path>/media/storage/Roms/SNES/</ROM_path>
-  <ROM_ext>zip</ROM_ext>
+  <ROM_ext>zip|sfc</ROM_ext>
   <ROM_asset_path>/media/storage/Assets/SNES/</ROM_asset_path>
   <Asset_Prefix>../Launcher assets Nintendo/SNES</Asset_Prefix>
 </launcher>
